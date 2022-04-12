@@ -6,7 +6,7 @@ The user answering a few questions will get:
 -reviews from other customers
 -the place where he can find the products.
 
-If a user login into the software, they will get the opportunity for their progress to be tracked. The user will have their personal diary where they can upload their pictures day today, so they can see the changes better and help other customers with their reviews.
+If a user login into the software, they will get the opportunity for their progress to be tracked. The user will have their personal diary where they can upload their pictures day to day, so they can see the changes better and help other customers with their reviews.
 
 Reviews are another part of this software.
 Here the user will see:
